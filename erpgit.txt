@@ -1,0 +1,15 @@
+#Fichero de unificacion de la apliacion
+#NOMBRE DE LA APLICACION ERPGIT 
+Modulos Disponibles 
+	FABRICACION
+	COMPRAS
+	VENTAS
+	FINANZAS
+	RRHH
+Submodulos y funcionalidades
+	FABRICACION
+	COMPRAS
+	VENTAS
+	FINANZAS
+	RRHH
+
