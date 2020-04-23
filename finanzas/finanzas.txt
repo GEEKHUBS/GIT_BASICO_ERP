@@ -3,3 +3,9 @@
 Funcionalidades :
         DIARIOS DE MOVIMIENTOS
 	CUENTAS CONTABLES
+	EXTRACTOS DE CUENTAS 
+	PREPARO RECEPCION COMPRAS Y VENTAS "generar conflicto porque las 2 ramas escribiran en lo mismo"
+
+
+
+	INFORMES VENCIMIENTOS
